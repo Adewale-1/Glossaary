@@ -1,0 +1,27 @@
+<html>
+<head>
+   <title>Sample Glossary</title>
+</head>
+<body>
+   <h2>Sample Glossary</h2>
+   <hr />
+   <h3>Index</h3>
+   <ul>
+      <li><a href="boy.html">boy</a></li>
+      <li><a href="rat.html">rat</a></li>
+      <li><a href="drive.html">drive</a></li>
+      <li><a href="combination.html">combination</a></li>
+      <li><a href="enqueue.html">enqueue</a></li>
+      <li><a href="house.html">house</a></li>
+      <li><a href="of.html">of</a></li>
+      <li><a href="cards.html">cards</a></li>
+      <li><a href="language.html">language</a></li>
+      <li><a href="meaning.html">meaning</a></li>
+      <li><a href="ohio.html">ohio</a></li>
+      <li><a href="state.html">state</a></li>
+      <li><a href="university.html">university</a></li>
+      <li><a href="columbus.html">columbus</a></li>
+      <li><a href="winter.html">winter</a></li>
+   </ul>
+</body>
+</html>

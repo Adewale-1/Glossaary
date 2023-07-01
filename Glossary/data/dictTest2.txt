@@ -1,0 +1,8 @@
+termA
+definitionA
+
+termB
+definitionB
+
+termC
+definitionC

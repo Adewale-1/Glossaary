@@ -1,0 +1,12 @@
+<html>
+<head>
+   <title>Sample Glossary</title>
+</head>
+<body>
+   <h2>Sample Glossary</h2>
+   <hr />
+   <h3>Index</h3>
+   <ul>
+   </ul>
+</body>
+</html>

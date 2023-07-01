@@ -1,0 +1,21 @@
+significance
+a concept one desires to express, primarily through verbal communication
+
+expression
+a term with its explanation found in a reference list
+
+phrase
+a combination of symbols in a linguistic system, containing a minimum of one symbol
+
+explanation
+a series of phrases that provide understanding to an expression
+
+reference list
+a collection of complex or specific expressions, accompanied by their 
+explanations, typically located towards a book's conclusion
+
+communication system
+an assortment of character sequences, each possessing significance
+
+written work
+a documented or printed piece of literature

@@ -1,0 +1,13 @@
+<html>
+<head>
+   <title>explanation</title>
+</head>
+<body>
+   <h2><b><i><font color="red">explanation</font></i></b></h2>
+   <blockquote>
+      a series of phrases that provide understanding to an <a href="expression.html">expression</a>
+   </blockquote>
+   <hr />
+   <p>Return to <a href="index.html">index</a>.</p>
+</body>
+</html>
